@@ -1,0 +1,19 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# Misc
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+*.keystore
+key.properties
