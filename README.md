@@ -1,16 +1,29 @@
-# smart_invoice_generator
+# 🧾 Smart Invoice Generator (Flutter App)
 
-A new Flutter project.
+A modern Flutter app to create, preview, and share invoices easily — designed with simplicity and functionality in mind.
 
-## Getting Started
+## 🚀 Features
+- 🧾 Create professional invoices instantly
+- 📤 Export and share as PDF
+- 💾 Save invoices securely on device
+- 🌙 Dark mode support
+- ⚙️ Built with Flutter & Dart
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Firebase (optional)
+- Path Provider
+- Share Plus
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Author
+**Maaz Haider**  
+[LinkedIn Profile](https://www.linkedin.com/in/maaz-haider-681546277)  
+📧 altaf144156@gmail.com
+
+## 📦 How to Run
+```bash
+flutter pub get
+flutter run
